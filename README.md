@@ -1,5 +1,5 @@
 
-# **FINTRACK - Group 7 (Client Team - 20)**
+# **FINTRACK**
 
 <br/>
 <br/>
