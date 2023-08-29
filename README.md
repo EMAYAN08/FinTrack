@@ -2,10 +2,6 @@
 # **FINTRACK**
 
 <br/>
-<br/>
-
-<br/>
-<br/>
 
 # **Project Summary:**
 - A progressive web application
