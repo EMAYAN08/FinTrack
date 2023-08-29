@@ -4,12 +4,6 @@
 <br/>
 <br/>
 
-# **Team Members:**
-- Emayan Vadivel (B00934556)
-- Himanshu Prajapati (B00946272)
-- Preetha Kachhadiya (B00936407)
-- Umang Mehta (B00946414)
-
 <br/>
 <br/>
 
